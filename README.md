@@ -41,7 +41,7 @@ I built a SQL star schema, validated key business metrics, and designed an **int
 
 ## 📂 Repository Structure
 
-"""
+```
 global-superstore-analytics/
 ├─ data/
 │  └─ orders_enriched_fact.csv
@@ -54,7 +54,7 @@ global-superstore-analytics/
 ├─ powerbi/
 │  └─ Global_Superstore_Dashboard.pbix
 └─ README.md
-"""
+```
 ---
 
 ## 🛠️ Tools Used
